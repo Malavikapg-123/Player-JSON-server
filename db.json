@@ -1,0 +1,92 @@
+{
+  "video": [
+    {
+      "id": "2",
+      "caption": "Jawan",
+      "url": "https://i.pinimg.com/originals/66/50/8a/66508a1184926e54cf6d781f0a307f3d.jpg",
+      "embededLink": "https://www.youtube.com/embed/VAdGW7QDJiU"
+    },
+    {
+      "id": "5",
+      "caption": "Jailer",
+      "url": "https://i.pinimg.com/736x/c9/17/a9/c917a903950ba7222a46c5525559c92e.jpg",
+      "embededLink": "https://www.youtube.com/embed/lM8h5Mm6ODo"
+    },
+    {
+      "id": "3",
+      "caption": "Leo",
+      "url": "https://www.cinejosh.com/newsimg/newsmainimg/leo-fan-made-poster_b_2303231134.jpg",
+      "embededLink": "https://www.youtube.com/embed/3wDiqlTNlfQ"
+    },
+    {
+      "id": "4",
+      "caption": "RDX",
+      "url": "https://images.cinemaexpress.com/uploads/user/imagelibrary/2022/12/15/original/RDX.jpg",
+      "embededLink": "https://www.youtube.com/embed/nYEoxne_20Y"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "Leo",
+          "url": "https://www.cinejosh.com/newsimg/newsmainimg/leo-fan-made-poster_b_2303231134.jpg",
+          "embededLink": "https://www.youtube.com/embed/3wDiqlTNlfQ"
+        }
+      ],
+      "categoryName": "Tamil"
+    },
+    {
+      "id": "2",
+      "allVideos": [
+        {
+          "id": "3",
+          "caption": "RDX",
+          "url": "https://indiantalents.in/wp-content/uploads/2023/06/First-Look-Poster-of-the-Movie-RDX.webp",
+          "embededLink": "https://www.youtube.com/embed/nYEoxne_20Y"
+        }
+      ],
+      "categoryName": "Malayalam"
+    },
+    {
+      "id": "3",
+      "categoryName": "Hindi",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "Jawan",
+          "url": "https://i.pinimg.com/originals/66/50/8a/66508a1184926e54cf6d781f0a307f3d.jpg",
+          "embededLink": "https://www.youtube.com/embed/VAdGW7QDJiU"
+        },
+        {
+          "id": "4",
+          "caption": "Animal",
+          "url": "https://www.firstindia.co.in/public/images/93075B4F-249D-4824-8606-A721C491A3BF_1672579342.jpeg",
+          "embededLink": "https://www.youtube.com/embed/Dydmpfo68DA"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "caption": "RDX",
+      "embededLink": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "timeStamp": "12/2023, 10:47:58 AM",
+      "id": 1
+    },
+    {
+      "caption": "Jawan",
+      "embededLink": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "timeStamp": "12/2023, 10:48:04 AM",
+      "id": 2
+    },
+    {
+      "caption": "RDX",
+      "embededLink": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "timeStamp": "12/2023, 10:18:32 AM",
+      "id": 3
+    }
+  ]
+}
